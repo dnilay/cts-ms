@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: nilay
+Build-Jdk: 11.0.8
+Implementation-Title: discovery-service
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: pl.piomin
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
